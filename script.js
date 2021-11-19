@@ -107,3 +107,4 @@ btnResetHTML.addEventListener("click", function() {
     counterHTML.innerText = "0"
 })
 
+// Commentaire
